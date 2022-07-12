@@ -4,7 +4,7 @@ hassio_api: true
 slug: nginx_proxy_ssh
 name: Martijns nginx proxy ssh
 description: An SSL/TLS proxy
-url: https://github.com/home-assistant/hassio-addons/tree/master/nginx_proxy
+url: https://github.com/smarti/testreversessh/tree/master/nginx_proxy_ssh
 arch:
   - armhf
   - armv7
