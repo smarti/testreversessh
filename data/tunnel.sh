@@ -1,1 +1,0 @@
-autossh -M -f -N -R %%REMOTEPORT%%:localhost:443 %%USER%%@%%REMOTEIP%%
